@@ -12,7 +12,7 @@ h1 {
 button {
   padding: 10px 20px;
   border: none;
-  background: black;
+  background: green;
   color: white;
   cursor: pointer;
 }
